@@ -1129,3 +1129,9 @@ footer {
     height: 450px;
     border: none;
 }
+
+@media (max-width: 768px) {
+    .media-section {
+        flex-direction: column;
+    }
+}
