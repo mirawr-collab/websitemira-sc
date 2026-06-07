@@ -1160,7 +1160,7 @@ footer {
     box-shadow: 0 0 10px rgba(255,255,255,0.2);
 }
 
-.user-info {
+#userInfo {
     color: rgba(255,255,255,0.85);
     font-size: 14px;
     padding: 10px 18px;
